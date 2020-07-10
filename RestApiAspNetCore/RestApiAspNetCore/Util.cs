@@ -25,5 +25,6 @@ namespace RestApiAspNetCore
 
             return isNumber;
         }
+
     }
 }
